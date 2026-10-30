@@ -1,6 +1,6 @@
-# $MONKEY website
+# $SMOS website
 
-Local static brand and community website for $MONKEY. The deployable site lives
+Local static brand and community website for $SMOS. The deployable site lives
 inside `dist/` and has no runtime dependencies.
 
 ## Local preview
